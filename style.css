@@ -394,6 +394,7 @@ footer{
 ::view-transition-old(root){ z-index:1; }
 ::view-transition-new(root){ z-index:2; }
 
+
 a.card {
   text-decoration: none;
   color: inherit;
@@ -459,7 +460,6 @@ a.card {
   margin-top: 24px;
 }
 
-/* Nút dạng Pill giống hệt ảnh mẫu */
 .social-btn {
   display: inline-flex;
   align-items: center;
